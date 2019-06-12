@@ -1,9 +1,9 @@
 # kubernetes-build
 Dockerfile auto build
 #kubernetes组件
- kube-apiserver-amd
- kube-controller-manager-amd64
- kube-proxy-amd64
+##kube-apiserver-amd
+##kube-controller-manager-amd64
+##kube-proxy-amd64
  kube-scheduler-amd64
  pause-amd64
  k8s-dns-sidecar-amd64
