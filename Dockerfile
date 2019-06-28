@@ -1,1 +1,3 @@
-FROM gcr.io/google_containers/kube-apiserver-amd64:v1.13.5
+FROM golang:latest
+
+RUN go get go.etcd.io/etcd/tools/benchmark
